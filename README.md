@@ -15,7 +15,7 @@ https://huggingface.co/spaces/WLCODING/news-analyzer
 ## 🚀 How to Run Locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/news-analyzer-app.git
+git clone https://github.com/TheGovindRachapudi/ai-news-analyzer.git
 cd news-analyzer-app
 pip install -r requirements.txt
 python -m textblob.download_corpora
