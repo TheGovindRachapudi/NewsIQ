@@ -9,8 +9,8 @@ This is a Gradio-powered web app that analyzes any news article URL and extracts
 - 💬 Sentiment (using TextBlob)  
 - 🏷️ Top 10 Keywords
 
-## 🌐 Live Demo (Optional)
-
+## 🌐 Live Demo 
+https://huggingface.co/spaces/WLCODING/news-analyzer
 
 ## 🚀 How to Run Locally
 
