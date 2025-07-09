@@ -1,4 +1,4 @@
-# 📰 AI-Powered News Article Analyzer
+# 📰 NewsIQ
 
 This is a Gradio-powered web app that analyzes any news article URL and extracts:
 
